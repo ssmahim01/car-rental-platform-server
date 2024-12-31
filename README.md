@@ -1,6 +1,6 @@
 # Server Name
 
-<b>Car Rental Server</b>
+<b>Car Rental Platform Server</b>
 <hr>
 
 # Project Live URL
